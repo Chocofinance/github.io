@@ -1,0 +1,15 @@
+[DOCUMENTATION]
+ORG_NAME="ChocoFinance Inc."
+ORG_URL="http://chocofinance.tech"
+ORG_DESCRIPTION="Josee Blurry Company based on Gibraltar"
+
+[[CURRENCIES]]
+code="COFI"
+issuer="GABPMR4MXFUA7R2TBJWZ3KNER5LPHFQGVRV4WAK5HHCV57XIEPO4SUJF"
+display_decimals=7 # Maximum decimal places that can be represented is 7
+image="https://chocofinance.tech/choco.png"
+name="Chocofinance"
+desc="BUY ONLY, NO SELL, UNTIL GAZUA"
+fixed_number = 3000000
+conditions="hot"
+status="live"
